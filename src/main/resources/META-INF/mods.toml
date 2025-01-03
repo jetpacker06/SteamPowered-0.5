@@ -7,7 +7,7 @@ modId = "steampowered" #mandatory
 version = "${file.jarVersion}" #mandatory
 displayName = "Create: Steam Powered" #mandatory
 authors = "[TeamMoeg] YueSha, khjxiaogu, goumo_g"
-credits = "We appreciate MRH0 for his code on RPM-FE conversion logic which we adapted in Steam Powered. \nCredits to SpottyTheTurtle for help with remapping. \nCredits to all GitHub contributors."
+credits = "We appreciate MRH0 for his code on RPM-FE conversion logic which we adapted in Steam Powered. \nCredits to SpottyTheTurtle for help with remapping. \nCredits to all GitHub contributors. \nCredit to jetpacker06 for porting to later versions of Create."
 description = '''
 Expanding Create mod to the Steam Age
 '''
